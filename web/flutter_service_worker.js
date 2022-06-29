@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "63b1c2d1ba239a78a039c32e332225dd",
-"index.html": "fef2adb2f178f1c0f2334926a5b32829",
-"/": "fef2adb2f178f1c0f2334926a5b32829",
-"main.dart.js": "20cdc3d04bfee5083ad0aeae2eef3e30",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "9de20060f1712955b9b26031abc557d8",
+"/": "9de20060f1712955b9b26031abc557d8",
+"main.dart.js": "0aa34a1327e74fc5b27a74d068130eb1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -27,11 +26,7 @@ const RESOURCES = {
 "assets/assets/images/bada_tail_blue.png": "d15416f605f9a333d968d5dd5a968318",
 "assets/assets/fonts/Roboto-Regular.ttf": "8a36205bd9b83e03af0591a004bc97f4",
 "assets/assets/fonts/Roboto-Bold.ttf": "b8e42971dec8d49207a8c8e2b919a6ac",
-"assets/assets/fonts/Roboto-Black.ttf": "d6a6f8878adb0d8e69f9fa2e0b622924",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/fonts/Roboto-Black.ttf": "d6a6f8878adb0d8e69f9fa2e0b622924"
 };
 
 // The application shell files that are downloaded before a service worker can
